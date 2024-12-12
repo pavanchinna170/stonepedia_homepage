@@ -1,0 +1,20 @@
+/* stonepedia_homepage/src/components/FeaturedProducts.css */
+.featured-products {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+  
+  .product-card {
+    padding: 1rem;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+  }
+  

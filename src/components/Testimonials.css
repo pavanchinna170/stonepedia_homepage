@@ -1,0 +1,17 @@
+/* stonepedia_homepage/src/components/Testimonials.css */
+.testimonials {
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .testimonials h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .testimonial {
+    margin: 1rem auto;
+    font-style: italic;
+    color: #555;
+  }
+  
